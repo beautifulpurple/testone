@@ -9,7 +9,6 @@ namespace Path类名
 {
     class Program
     {
-        //Path类啊
         static void Main(string[] args)
         {
             string path = @"E:\项目\ASP.Net资料大全\自学程序各种笔记\C#基础教程(传智播客视频)\传智播客\笔记.docx";

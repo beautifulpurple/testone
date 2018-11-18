@@ -9,6 +9,10 @@ namespace 文件流
 {
     class Program
     {
+        /// <summary>
+        /// 文件刘操作
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             string str = "你是额";

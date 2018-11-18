@@ -8,6 +8,10 @@ namespace 随便练习
 {
     class Program
     {
+        /// <summary>
+        /// 测试github的提交操作
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Dictionary<int, string> dic = new Dictionary<int, string>();
