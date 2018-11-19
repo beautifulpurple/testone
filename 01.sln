@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "集合小练习", "集合�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{522C0CB1-D641-402E-905E-05920DF8BB79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ceshigitex", "ceshigitex\ceshigitex.csproj", "{A99D68E0-B8FC-4456-A6BA-A0707E078DD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{522C0CB1-D641-402E-905E-05920DF8BB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{522C0CB1-D641-402E-905E-05920DF8BB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{522C0CB1-D641-402E-905E-05920DF8BB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99D68E0-B8FC-4456-A6BA-A0707E078DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99D68E0-B8FC-4456-A6BA-A0707E078DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99D68E0-B8FC-4456-A6BA-A0707E078DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99D68E0-B8FC-4456-A6BA-A0707E078DD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
